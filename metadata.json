@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกการทำงานพนักงานทำความสะอาด",
+  "description": "ระบบบันทึกการทำงาน ตรวจเช็คพื้นที่ และรายงานผลงานพนักงานทำความสะอาด พร้อมเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
